@@ -39,7 +39,10 @@ section#login{
     height: 500px;
     border-radius: 20px;
     box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.425);
+    transition: width 0.3s, height 0.3s ;
+    transition-timing-function: ease;
 }
+
 
 div#imagem {
     display: block;
