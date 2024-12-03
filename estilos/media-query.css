@@ -25,15 +25,6 @@
         text-align: center;
     }
 
-    div.campo {
-        padding: 5px;
-        font-size: 1em;
-    
-    }
-
-    form > div > img {
-        width: 20px;
-    }
 
 
 }
@@ -71,14 +62,5 @@
         font-size: 1em;
     }
 
-    div.campo {
-        padding: 5px;
-        font-size: 1em;
-    
-    }
-
-    form > div > img {
-        width: 25px;
-    }
 
 }
