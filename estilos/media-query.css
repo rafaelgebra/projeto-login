@@ -20,6 +20,22 @@
         float: right;
         width: 70%;
     }
+
+    div#formulario > h1{
+        text-align: center;
+    }
+
+    div.campo {
+        padding: 5px;
+        font-size: 1em;
+    
+    }
+
+    form > div > img {
+        width: 20px;
+    }
+
+
 }
 
 @media screen and (min-width: 992px) {
@@ -52,7 +68,17 @@
     }
 
     div#formulario > p {
-        font-size: 1.2em;
+        font-size: 1em;
+    }
+
+    div.campo {
+        padding: 5px;
+        font-size: 1em;
+    
+    }
+
+    form > div > img {
+        width: 25px;
     }
 
 }
